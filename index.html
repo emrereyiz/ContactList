@@ -1,0 +1,25 @@
+<! DOCTYPE html>
+<html>
+<head>
+	<title>Backbone Uygulama 1</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="assets/screen.css">
+</head>
+<body>
+<div id="contacts"></div>
+<script type="text/template" id="contactTemplate">
+	<img src="<%= photo %>" alt="<%= name %>" />
+	<h1><%= name %><span><%= type %></span></h1>
+	<div><%= address %></div>
+	<dl>
+		<dt>Telefon: </dt><dd><%= phone %></dd>
+		<dt>Email:</dt><dd><a href="mailto:<%=email%>"><%=email%></a></dd>
+	</dl>
+</script>
+
+<script type="text/javascript" src="assets/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="http://underscorejs.org/underscore-min.js"></script>
+<script type="text/javascript" src="http://backbonejs.org/backbone-min.js"></script>
+<script type="text/javascript" src="assets/custom.js"></script>
+</body>
+</html>
