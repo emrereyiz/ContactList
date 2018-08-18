@@ -3,11 +3,11 @@
 	// iletişim bilgileri
 	var contacts = [
 	// isim, adres, telefon, email, tür
-		{name:"Emre Köklü", address: "Mevlana GOP", phone: "+90 541 205 1993", email: "kklemre@gmail.com", type: "aile"},
-		{name:"Ilgın Köklü", address: "Almanya", phone: "+90 541 205 1994", email: "ilginkoklu@gmail.com", type: "aile"},
-		{name:"Ozan Seçer", address: "Kartal", phone: "+90 541 205 1995", email: "ozansecer@gmail.com", type: "is"},
-		{name:"Mustafa Dal", address: "Z.burnu", phone: "+90 541 205 1996", email: "mustafadal@gmail.com", type: "is"},
-		{name:"Özay akbaş", address: "İmar Blokları", phone: "+90 541 205 1997", email: "ozayakbas@gmail.com", type: "semt"}
+		{name:"xxx xxx", address: "xxx", phone: "+444", email: "aa@gmail.com", type: "aile"},
+		{name:"xxx xxx", address: "xxx", phone: "+444", email: "aa@gmail.com", type: "aile"},
+		{name:"xxx xxx", address: "xxx", phone: "+444", email: "ozansecer@gmail.com", type: "is"},
+		{name:"xxx xxx", address: "xxx", phone: "+444", email: "mustafadal@gmail.com", type: "is"},
+		{name:"xxx xxx", address: "xxx", phone: "+444", email: "ozayakbas@gmail.com", type: "semt"}
 	];
 
 // iletisim bilgisi için iletisim modeli oluşturuldu
